@@ -1,0 +1,15 @@
+asgiref==3.2.10
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5d968ni_yn/croot/certifi_1671487774636/work/certifi
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==3.1
+django-cors-headers==3.4.0
+django-templated-mail==1.1.1
+djangorestframework==3.11.0
+djangorestframework-simplejwt==4.6.0
+djoser==2.0.3
+PyJWT==2.0.0
+python-decouple==3.3
+pytz==2022.7
+sqlparse==0.4.3
+static3==0.7.0
